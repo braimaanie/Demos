@@ -1,0 +1,19 @@
+{
+    "LocalDependencies": [
+        "AlterMsgs.lua",
+        "ErrorLoop.lua"
+    ],
+    "LuaDependencies": [
+        "dateparse",
+        "hl7util"
+    ],
+    "OtherDependencies": [
+        "demo.vmd"
+    ],
+    "timestamp": "1466467056",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

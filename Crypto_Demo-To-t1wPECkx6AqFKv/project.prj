@@ -1,0 +1,20 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "crypto-helpers"
+    ],
+    "OtherDependencies": [
+        "data.txt",
+        "private-dsa.pem",
+        "private.pem",
+        "public-dsa.pem",
+        "public.pem",
+        "wrong-public.pem"
+    ],
+    "timestamp": "1466467056",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

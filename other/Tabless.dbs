@@ -1,0 +1,15 @@
+create table [Patients](
+   [PatientID] integer,
+   [First_Name] string,
+   [Last_Name] string,
+   [phone] string,
+   [AccountNumber] string
+);
+
+create table [Facility](
+   [FacilityID] integer,
+   [FacilityName] string,
+   [FacilityAddress] integer,
+   [SendingApp] string,
+   key([FacilityID])
+);

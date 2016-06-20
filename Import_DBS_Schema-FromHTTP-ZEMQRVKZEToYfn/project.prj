@@ -1,0 +1,17 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "db.schema.generate",
+        "encrypt.password"
+    ],
+    "OtherDependencies": [
+        "Tabless.dbs",
+        "demo.vmd"
+    ],
+    "timestamp": "1466467056",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}
